@@ -21,7 +21,6 @@ Student get_input(Student& pupil)
 }
 
 
-
 double get_average_grade(const std::vector<Student>& classroom)
 {   
     double sum = 0;
